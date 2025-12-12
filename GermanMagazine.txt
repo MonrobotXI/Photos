@@ -1,0 +1,31 @@
+Bild 37
+
+‘Monrobot XI
+
+Das amerikanische Unternehmen Monroe Calculating Machine Co. ent-
+wickelte vor allem fir die Bewiltigung kleinerer 6konomischer Berech-
+nungen (Fakturierung, Finanzdisposition, Umsatzanalyse usw.) den Di-
+gitalrechner Monrobot XI (Bild 37), der in der Grundausstattung die Ein-
+und Ausgabe iiber Lochstreifen und Schreibmaschine abwickelt und durch
+AnschluB weiterer Gerite zu einem kleinen Datenverarbeitungssystem
+ausgebaut werden kann. Das Bild zeigt zwei besondere Zusitze fiir den
+Benutzer des Automaten: eine kleine Zifferntastatur fir die Einhand-
+blindbedienung und ein Kontrollgerit ffir die Anzeige von Maschinen-
+zustiinden sowie fiir Eingriffe des Bedieners, insbesondere fiir den wahl-
+weisen Aufruf eines von mehreren gespeicherten Programmen, wie das in
+der kommerziellen Rechentechnik héaufig gefordert wird.
+
+Google Translate:
+
+The American company Monroe Calculating Machine Co. developed was
+primarily designed to handle smaller economic calculations.
+information (invoicing, financial planning, sales analysis, etc.)
+digital computer Monrobot XI (Figure 37), which has the input in
+the basic configuration and output via punched tape and typewriter
+Connection of additional devices to a small data processing system
+can be expanded. The picture shows two special seats for the User
+of the machine: a small numeric keypad for one-handed use blind
+operation and a control device for displaying machine information
+states as well as for interventions by the operator, in particular
+for the optional to call one of several stored programs, such as
+the one in is often required in commercial computing technology.
